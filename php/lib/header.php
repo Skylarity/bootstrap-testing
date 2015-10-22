@@ -1,10 +1,18 @@
 <?php require_once("php/lib/nav.php") ?>
 <div class="container">
-	<div class="jumbotron">
-		<h1>Hello, world!</h1>
+	<div class="jumbotron enterprise">
+		<div class="row">
+			<div class="col-md-12">
+				<h1>Resist!</h1>
 
-		<p>This is a simple jumbotron used for calling attention to something important.</p>
+				<p>The Federation's gone; the Borg is everywhere!</p>
 
-		<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+				<p>
+					<a class="btn btn-danger btn-lg" href="https://www.youtube.com/watch?v=RrG4JnrN5GA" role="button">
+						Make it so
+					</a>
+				</p>
+			</div>
+		</div>
 	</div>
 </div>

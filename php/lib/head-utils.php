@@ -12,7 +12,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 
 		<!-- CUSTOM CSS FILES GO HERE -->
-		<!-- <link type="text/css" href="css/style.css" rel="stylesheet"/> -->
+		<link type="text/css" href="css/style.css" rel="stylesheet"/>
 
 		<!-- Font Awesome -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">

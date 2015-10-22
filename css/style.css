@@ -1,0 +1,17 @@
+.enterprise {
+	/*background: url(../img/enterprise.jpg) no-repeat center center fixed;*/
+	/*-webkit-background-size: cover;*/
+	/*-moz-background-size: cover;*/
+	/*-o-background-size: cover;*/
+	/*background-size: cover;*/
+}
+
+.big-text {
+	padding: 20px;
+	background-color: #eee;
+	border-radius: 6px;
+}
+
+.margin-reset {
+	margin: 0;
+}
