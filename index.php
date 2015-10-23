@@ -1,18 +1,31 @@
 <?php require_once("php/lib/head-utils.php") ?>
 <?php require_once("php/lib/header.php") ?>
 	<div class="container">
+		<div class="jumbotron enterprise">
+			<div class="row">
+				<div class="col-md-12">
+					<h1>Resist!</h1>
+
+					<p>The Federation's gone; the Borg is everywhere!</p>
+
+					<p>
+						<a class="btn btn-danger btn-lg" href="https://www.youtube.com/watch?v=RrG4JnrN5GA"
+						   role="button">
+							Make it so
+						</a>
+					</p>
+				</div>
+			</div>
+		</div>
 		<div class="row">
 			<div class="col-md-6">
-				<img class="img-responsive center-block" src="img/resistance.png"/>
+				<img src="img/resistance.png" class="img-responsive center-block"/>
 			</div>
 			<div class="col-md-3">
-				<p>
-					It indicates a synchronic distortion in the areas emanating triolic waves. The cerebellum, the
-					cerebral cortex, the brain stem, the entire nervous system has been depleted of electrochemical
-					energy. Any device like that would produce high levels of triolic waves. These walls have undergone
-					some kind of selective molecular polarization. I haven't determined if our phaser energy can
-					generate a stable field. We could alter the photons with phase discriminators.
-				</p>
+				<blockquote class="blockquote-reverse">
+					<p><i class="fa fa-hand-spock-o fa-lg"></i>&nbsp;Live long, and prosper.</p>
+					<footer>Spock</footer>
+				</blockquote>
 			</div>
 			<div class="col-md-3">
 				<p>
@@ -41,12 +54,7 @@
 					wanna talk about the assassination attempt on Lieutenant Worf. And blowing into maximum warp speed,
 					you appeared for an instant to be in two places at once. I can't. As much as I care about you, my
 					first duty is to the ship. A lot of things can change in twelve years, Admiral. Worf, It's better
-					than music. It's jazz. Computer, belay that order. For an android with no feelings, he sure managed
-					to evoke them in others. Mr. Worf, you sound like a man who's asking his friend if he can start
-					dating his sister. I think you've let your personal feelings cloud your judgement. Commander William
-					Riker of the Starship Enterprise. The Enterprise computer system is controlled by three primary main
-					processor cores, cross-linked with a redundant melacortz ramistat, fourteen kiloquad interface
-					modules.
+					than music. It's jazz.
 				</p>
 			</div>
 		</div>
